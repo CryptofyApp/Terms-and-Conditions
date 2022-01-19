@@ -6,8 +6,7 @@
 
 <p>By using this app we assume you accept these terms and conditions. Do not continue to use Cryptofy if you do not agree to take all of the terms and conditions stated on this page.</p>
 
-<p>The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same. Our Terms and Conditions were created with the help of the <a href="https://www.app-privacy-policy.com/app-terms-conditions-generator/">App Terms and Conditions Generator from App-Privacy-Policy.com</a></p>
-<h3><strong>License</strong></h3>
+<p>The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 <p>Unless otherwise stated, Cryptofy and/or its licensors own the intellectual property rights for all material on Cryptofy. All intellectual property rights are reserved. You may access this from Cryptofy for your own personal use subjected to restrictions set in these terms and conditions.</p>
 
@@ -88,7 +87,8 @@
 
 <h3><strong>Your Privacy</strong></h3>
 
-<p>Please read Privacy Policy.</p>
+<p>Please read Privacy Policy.
+- You can read the privacy policy here: [Privacy Policy](https://cryptofyapp.github.io/Privacy-Policy/).</p>
 
 <h3><strong>Reservation of Rights</strong></h3>
 
