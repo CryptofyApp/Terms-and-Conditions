@@ -89,7 +89,7 @@
 
 <p>Please read Privacy Policy.</p>
 
-- You can read the privacy policy here: [Privacy Policy](https://cryptofyapp.github.io/Privacy-Policy/).
+<a href="https://cryptofyapp.github.io/Privacy-Policy/">Privacy Policy</a>
 
 <h3><strong>Reservation of Rights</strong></h3>
 
